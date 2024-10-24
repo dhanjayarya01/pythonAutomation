@@ -1,12 +1,14 @@
 # WhatsApp Web Automation with Selenium
 
-This project automates the process of sending WhatsApp messages using Selenium WebDriver. It allows users to send messages to their contacts without manually opening the WhatsApp Web interface.
+This project automates the process of form filling using Selenium WebDriver. 
 
 ## Features
+- Seamlessly automates form filling in a matter of seconds.
+- A clean, user-friendly interface for smooth interaction.
+- Saves time by reducing manual input for repetitive tasks.
+- Easily customizable for different workflows.
 
-- Automatically sends messages to specified contacts.
-- Customizable message content.
-- Easy setup and usage.
+
 
 ## Requirements
 
@@ -28,4 +30,5 @@ This project requires the following Python packages:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/whatsapp-web-automation.git
+   git clone https://github.com/yourusername/pythonAutomation.
+   git
